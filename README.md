@@ -36,9 +36,9 @@ pip install -r requirements.txt
 
 * #### Extract/Generate RNA sequence data 
     * Extraction from RNAcentral database
-     ```
-     cd scripts && python rna_data_extract.py
-     ```
+         ```
+         cd scripts && python rna_data_extract.py
+         ```
     * Generate real RNA sequences of interest:
     ```
     cd scripts && rna_data_extract_unique.py
