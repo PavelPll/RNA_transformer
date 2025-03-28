@@ -39,7 +39,7 @@ pip install -r requirements.txt
      ```
      cd scripts && python rna_data_extract.py
      ```
-    * Generate RNA sequences of interest:
+    * Generate real RNA sequences of interest:
     ```
     cd scripts && rna_data_extract_unique.py
     ```
@@ -64,10 +64,14 @@ pip install -r requirements.txt
   ```
   cd notebooks && RNA_transformer.ipynb
   ```
+* Analysis
+    * Check embed_arithmetic and the effect of basis:
+    ```
+    cd notebooks && embed_arithmetic_basis.ipynb
+    cd notebooks && embed_arithmetic_kdtree.ipynb
+    ```
   
-```
-cd scripts && rna_data_extract_unique.py
-```
+
 
   
 ```
