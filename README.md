@@ -53,14 +53,23 @@ pip install -r requirements.txt
     cd scripts && rna_data_extract_hairpin.py
     cd scripts && rna_data_extract_hairpin_tail.py
     ```
-* Run RNA_transfer
-    * Define parameters in config models/RNA_transformer/config.py
+* Run RNA_transformer
+    * Define transformer parameters in config models/RNA_transformer/config.py
         * autoencoder type
         * the presence of classification head
         * set trainable_classification_weight
         * specify custom embeddings
         * etc
-* Step-by-step bullets
+* Run training and inference
+  ```
+  cd notebooks && RNA_transformer.ipynb
+  ```
+  
+```
+cd scripts && rna_data_extract_unique.py
+```
+
+  
 ```
 code blocks for commands
 ```
