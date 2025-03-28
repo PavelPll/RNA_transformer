@@ -10,6 +10,7 @@ RNA Sequence Analysis Using Transformer Models
 ## Getting Started
 
 ### Dependencies
+* I was inspired by this [Vanilla Transformer implementation](https://github.com/hkproj/pytorch-transformer) used to translate phrases from English to Italian. 
 * [ViennaRNA - predicting and comparing RNA secondary structures](https://www.tbi.univie.ac.at/RNA/ViennaRNA/doc/html)
 * [StaVia (Via 2.0) - single-cell trajectory inference method](https://pyvia.readthedocs.io/en/latest/pyVia-home.html)
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
