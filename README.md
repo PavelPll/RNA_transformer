@@ -2,17 +2,15 @@
 RNA Sequence Analysis Using Transformer Models
 ## Description
 * Vanilla or/and BERT-like transformer implementation for RNA sequences analysis
-* Word embeddings arithmetic
+* RNA embeddings arithmetic
 * Peptidyl Transferase Center (PTC): structure and evolution 
 
-## Description
 
-An in-depth paragraph about your project and overview of use.
 
 ## Getting Started
 
 ### Dependencies
-
+* https://pyvia.readthedocs.io/en/latest/pyVia-home.html
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10
 
