@@ -10,6 +10,7 @@ RNA Sequence Analysis Using Transformer Models
 ## Getting Started
 
 ### Dependencies
+* [A Library for predicting and comparing RNA secondary structures] (https://www.tbi.univie.ac.at/RNA/ViennaRNA/doc/html)
 * https://pyvia.readthedocs.io/en/latest/pyVia-home.html
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10
