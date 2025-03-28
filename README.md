@@ -22,10 +22,10 @@ RNA Sequence Analysis Using Transformer Models
 
 * Install ViennaRNA from [here](https://www.tbi.univie.ac.at/RNA/ViennaRNA/doc/html/install.html)
 * Install StaVia from [here](https://pyvia.readthedocs.io/en/latest/Installation.html)
-```
-git clone https://github.com/PavelPll/RNA_transformer.git
-cd RNA_transformer
-```
+ ```
+ git clone https://github.com/PavelPll/RNA_transformer.git
+ cd RNA_transformer
+ ```
 ```
 conda create -n rna python=3.10.16
 conda activate rna
