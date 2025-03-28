@@ -27,6 +27,11 @@ RNA Sequence Analysis Using Transformer Models
 * conda create -n rna python=3.10.16
 * conda activate rna
 * pip install -r requirements.txt
+```
+conda create -n rna python=3.10.16
+conda activate rna
+pip install -r requirements.txt
+```
 
 ### Executing program
 
