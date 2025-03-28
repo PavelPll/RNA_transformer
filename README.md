@@ -60,10 +60,10 @@ pip install -r requirements.txt
         * set trainable_classification_weight
         * specify custom embeddings
         * etc
-* Run training and inference
-  ```
-  cd notebooks && RNA_transformer.ipynb
-  ```
+    * Run training and inference
+    ```
+    cd notebooks && RNA_transformer.ipynb
+    ```
 * Analysis
     * Check embed_arithmetic and the effect of basis:
     ```
