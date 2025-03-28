@@ -20,6 +20,8 @@ RNA Sequence Analysis Using Transformer Models
 
 ### Installing
 
+* Install ViennaRNA from [here](https://www.tbi.univie.ac.at/RNA/ViennaRNA/doc/html/install.html)
+* Install StaVia from [here](https://pyvia.readthedocs.io/en/latest/Installation.html)
 * How/where to download your program
 * Any modifications needed to be made to files/folders
 
