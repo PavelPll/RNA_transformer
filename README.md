@@ -39,6 +39,14 @@ pip install -r requirements.txt
     ```
     cd scripts && python rna_data_extract.py
     ```
+    * Generate random RNA sequences:
+    ```
+    cd scripts && python rna_data_extract_random.py
+    ```
+    * Generate symmetric RNA sequences:
+    ```
+    cd scripts && rna_data_extract_symmetric.py
+    ```
 * How to run the program
 * Step-by-step bullets
 ```
