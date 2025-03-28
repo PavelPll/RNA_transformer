@@ -40,19 +40,19 @@ pip install -r requirements.txt
          cd scripts && python rna_data_extract.py
          ```
     * Generate real RNA sequences of interest:
-    ```
-    cd scripts && rna_data_extract_unique.py
-    ```
+        ```
+        cd scripts && rna_data_extract_unique.py
+        ```
     * Generate random/symmetric RNA sequences:
-    ```
-    cd scripts && python rna_data_extract_random.py
-    cd scripts && rna_data_extract_symmetric.
-    ```
+        ```
+        cd scripts && python rna_data_extract_random.py
+        cd scripts && rna_data_extract_symmetric.
+        ```
     * Generate RNA hairpins:
-    ```
-    cd scripts && rna_data_extract_hairpin.py
-    cd scripts && rna_data_extract_hairpin_tail.py
-    ```
+        ```
+        cd scripts && rna_data_extract_hairpin.py
+        cd scripts && rna_data_extract_hairpin_tail.py
+        ```
 * #### Run RNA_transformer
     * Define transformer parameters in config models/RNA_transformer/config.py
         * autoencoder type
@@ -61,23 +61,23 @@ pip install -r requirements.txt
         * specify custom embeddings
         * etc
     * Run training and inference
-    ```
-    cd notebooks && RNA_transformer.ipynb
-    ```
+        ```
+        cd notebooks && RNA_transformer.ipynb
+        ```
 * #### Analysis
     * Calculate and plot RNA secondary structure:
-    ```
-    cd notebooks && RNA_plot.ipynb
-    ```
+        ```
+        cd notebooks && RNA_plot.ipynb
+        ```
     * Check embeddings arithmetic and the effect of basis:
-    ```
-    cd notebooks && embed_arithmetic_basis.ipynb
-    cd notebooks && embed_arithmetic_kdtree.ipynb
-    ```
+        ```
+        cd notebooks && embed_arithmetic_kdtree.ipynb
+        cd notebooks && embed_arithmetic_basis.ipynb
+        ```
     * Run Single-Cell Inspired Analysis of RNA
-    ```
-    cd notebooks && VIA_analysis.ipynb
-    ```
+        ```
+        cd notebooks && VIA_analysis.ipynb
+        ```
 
 ## Help
 
