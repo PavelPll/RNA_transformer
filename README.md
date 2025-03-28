@@ -1,7 +1,10 @@
 # RNA_transformer
 RNA Sequence Analysis Using Transformer Models
 ## Description
-An in-depth paragraph about your project and overview of use.
+* Vanilla or/and BERT-like transformer implementation for RNA sequences analysis
+* Word embeddings arithmetic
+* Peptidyl Transferase Center (PTC): structure and evolution 
+
 ## Description
 
 An in-depth paragraph about your project and overview of use.
