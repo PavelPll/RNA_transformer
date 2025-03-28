@@ -53,7 +53,7 @@ pip install -r requirements.txt
     cd scripts && rna_data_extract_hairpin.py
     cd scripts && rna_data_extract_hairpin_tail.py
     ```
-* # Run RNA_transformer
+* #### Run RNA_transformer
     * Define transformer parameters in config models/RNA_transformer/config.py
         * autoencoder type
         * the presence of classification head
@@ -64,7 +64,7 @@ pip install -r requirements.txt
     ```
     cd notebooks && RNA_transformer.ipynb
     ```
-* # Analysis
+* #### Analysis
     * Calculate and plot RNA secondary structure:
     ```
     cd notebooks && RNA_plot.ipynb
