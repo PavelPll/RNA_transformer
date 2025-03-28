@@ -65,18 +65,19 @@ pip install -r requirements.txt
     cd notebooks && RNA_transformer.ipynb
     ```
 * Analysis
-    * Check embed_arithmetic and the effect of basis:
+    * Calculate and plot RNA secondary structure:
+    ```
+    cd notebooks && RNA_plot.ipynb
+    ```
+    * Check embeddings arithmetic and the effect of basis:
     ```
     cd notebooks && embed_arithmetic_basis.ipynb
     cd notebooks && embed_arithmetic_kdtree.ipynb
     ```
-  
-
-
-  
-```
-code blocks for commands
-```
+    * Run Single-Cell Inspired Analysis of RNA
+    ```
+    cd notebooks && VIA_analysis.ipynb
+    ```
 
 ## Help
 
@@ -89,7 +90,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
+Pavel Polyakov  
 ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Version History
