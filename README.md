@@ -58,10 +58,13 @@ pip install -r requirements.txt
         * Construct a composite loss
             ```
             "autoencoder_bert": False,
-            "autoencoder_vanilla": False,
+            "autoencoder_vanilla": True,
             "classification": True,
             ```
-        * autoencoder type
+        * To use or not to use:
+              * learnable loss weighting for the classification task
+        * To use or not to use custom embeddings  
+        * To use or not to use a mask token for training
         * the presence of classification head
         * set trainable_classification_weight
         * specify custom embeddings
