@@ -55,6 +55,12 @@ pip install -r requirements.txt
         ```
 * #### Run RNA_transformer
     * Define transformer parameters in config models/RNA_transformer/config.py
+        * Construct a composite loss
+            ```
+            "autoencoder_bert": False,
+            "autoencoder_vanilla": False,
+            "classification": True,
+            ```
         * autoencoder type
         * the presence of classification head
         * set trainable_classification_weight
