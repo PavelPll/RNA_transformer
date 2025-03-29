@@ -42,17 +42,17 @@ pip install -r requirements.txt
          ```
     * Generate real RNA sequences of interest:
         ```
-        cd scripts && rna_data_extract_unique.py
+        cd scripts && python rna_data_extract_unique.py
         ```
     * Generate random/symmetric RNA sequences:
         ```
         cd scripts && python rna_data_extract_random.py
-        cd scripts && rna_data_extract_symmetric.
+        cd scripts && python rna_data_extract_symmetric.
         ```
     * Generate RNA hairpins:
         ```
-        cd scripts && rna_data_extract_hairpin.py
-        cd scripts && rna_data_extract_hairpin_tail.py
+        cd scripts && python rna_data_extract_hairpin.py
+        cd scripts && python rna_data_extract_hairpin_tail.py
         ```
 * #### Run RNA_transformer
     * Define transformer parameters in config models/RNA_transformer/config.py
