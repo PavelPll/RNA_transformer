@@ -15,6 +15,7 @@ RNA Sequence Analysis Using Transformer Models
 * [RNA-FM: Interpretable RNA Foundation Model from Unannotated Data for Highly Accurate RNA Structure and Function Predictions](https://huggingface.co/multimolecule/rnafm)
 * [ViennaRNA: predicting and comparing RNA secondary structures](https://www.tbi.univie.ac.at/RNA/ViennaRNA/doc/html)
 * [StaVia (Via 2.0): single-cell trajectory inference method](https://pyvia.readthedocs.io/en/latest/pyVia-home.html)
+* [IUPAC code for nucleotides and amino acids](https://www.bioinformatics.org/sms/iupac.html)
 * Windows 11, Visual Studio Code
 * Torch
 
