@@ -62,7 +62,7 @@ pip install -r requirements.txt
             "classification": True,
             ```
         * To use or not to use:
-              * learnable loss weighting for the classification task
+            * learnable loss weighting for the classification task
         * To use or not to use custom embeddings  
         * To use or not to use a mask token for training
         * the presence of classification head
