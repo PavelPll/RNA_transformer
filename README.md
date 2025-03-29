@@ -63,11 +63,8 @@ pip install -r requirements.txt
             ```
         * To use or not to use:
             * learnable loss weighting for the classification task
-        * To use or not to use custom embeddings  
-        * To use or not to use a mask token for training
-        * the presence of classification head
-        * set trainable_classification_weight
-        * specify custom embeddings
+            * custom embeddings  
+            * a mask token for training
         * etc
     * Run training and inference
         ```
