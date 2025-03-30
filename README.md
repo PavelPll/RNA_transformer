@@ -1,6 +1,6 @@
 # RNA_transformer
 RNA Sequence Analysis Using Transformer Models
-## Description ([View the PDF](https://github.com/user/repo/blob/main/file.pdf) for more details)
+## Description ([view the PDF](https://github.com/user/repo/blob/main/file.pdf))
 * Vanilla or/and BERT-like transformer implementation to generate RNA sequence embeddings 
 * RNA embeddings arithmetic
 * Peptidyl Transferase Center (PTC): structure and evolution 
