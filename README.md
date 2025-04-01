@@ -63,7 +63,7 @@ pip install -r requirements.txt
             "autoencoder_vanilla": True,
             "classification": True,
             ```
-        * To use or not to use:
+        *  Set whether to use or not:
             * learnable loss weighting for the classification task
             * custom embeddings  
             * a mask token for training
