@@ -88,14 +88,9 @@ pip install -r requirements.txt
         cd notebooks && VIA_analysis.ipynb
         ```
 
-[//]: ## Help
-[//]: Any advise for common problems or issues.
-
 ## License
-
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
-[//]: ## Acknowledgments
 
 
 > [!NOTE]
