@@ -13,6 +13,7 @@ RNA Sequence Analysis Using Transformer Models
 ### Dependencies
 * The starting point is [Vanilla Transformer implementation](https://github.com/hkproj/pytorch-transformer), used to translate phrases from English to Italian
 * [RNAcentral DATABASE](https://rnacentral.org), dedicated to non-coding RNA (ncRNA) sequences
+* [NIST Chemistry WebBook](https://webbook.nist.gov/chemistry/)
 * [RNA-FM: Interpretable RNA Foundation Model from Unannotated Data for Highly Accurate RNA Structure and Function Predictions](https://huggingface.co/multimolecule/rnafm)
 * [ViennaRNA: predicting and comparing RNA secondary structures](https://www.tbi.univie.ac.at/RNA/ViennaRNA/doc/html)
 * [StaVia (Via 2.0): single-cell trajectory inference method](https://pyvia.readthedocs.io/en/latest/pyVia-home.html)
