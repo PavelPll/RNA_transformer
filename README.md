@@ -144,5 +144,5 @@ The file, **docker-compose.yml**, runs the container c1, with installed Python (
 * The file requirements/flask/app/**main.py** contains the code to run ML prediction.
 
 > [!NOTE]
-> For more information see [short presentation](https://github.com/PavelPll/RNA_transformer/blob/main/docs/RNA_transformer.pdf)
+> For more information see short [presentation](https://github.com/PavelPll/RNA_transformer/blob/main/docs/RNA_transformer.pdf)
 
