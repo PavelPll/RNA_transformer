@@ -100,7 +100,7 @@ command to run if program contains helper info
 
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
-## Acknowledgments
+[//]: ## Acknowledgments
 
 
 > [!NOTE]
