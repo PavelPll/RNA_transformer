@@ -88,13 +88,8 @@ pip install -r requirements.txt
         cd notebooks && VIA_analysis.ipynb
         ```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
+[//]: ## Help
+[//]: Any advise for common problems or issues.
 
 ## License
 
